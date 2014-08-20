@@ -98,8 +98,8 @@ header {
 }
 
 .tree {
-  background: url(http://ts1.mm.bing.net/th?&id=HN.608030475884431023&w=300&h=300&c=0&pid=1.9&rs=0&p=0) center; 
-  background-repeat: repeat-y;
+  background: url(http://ts1.mm.bing.net/th?&id=HN.608030475884431023&w=300&h=300&c=0&pid=1.9&rs=0&p=0); 
+  background-repeat: repeat;
   padding: 50px 20px 50px 20px;
   margin: 0 auto;
 }

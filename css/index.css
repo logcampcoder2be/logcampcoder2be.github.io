@@ -60,12 +60,12 @@ header {
   background-color: #333333;  
 /* You can change the header background image here */    
   background-image: url(http://images6.fanpop.com/image/photos/33000000/jpg-dogs-33040614-1600-1200.jpg);
-  -webkit-background-size: cover;
+/*  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   padding: 250px 0px 250px 0px;
-  margin: 0 auto;  
+  margin: 0 auto;  */
 }
 
 #about {
